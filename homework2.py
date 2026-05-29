@@ -5,4 +5,4 @@ def mult(a):
         n = n-1
 
         
-mult(6)
+mult(7)
